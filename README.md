@@ -19,31 +19,6 @@ HTML/CSS: Basic HTML and CSS are used for structuring and styling the applicatio
 
 LocalStorage: Tasks are stored in the browser's local storage, allowing persistence across sessions.
 
-Getting Started
-Follow these steps to run the Todo-List app locally:
-
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/todo-list-react.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd todo-list-react
-Install dependencies:
-
-bash
-Copy code
-npm install
-Start the development server:
-
-bash
-Copy code
-npm start
-Open your browser and visit http://localhost:3000 to view the app.
-
 Project Structure
 src/: Contains the source code for the React application.
 
